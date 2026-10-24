@@ -1,0 +1,26 @@
+DOCERIA ÚNICA — SITE
+
+COMO ABRIR
+1. Extraia todo o conteúdo deste ZIP para uma pasta.
+2. Abra o arquivo index.html em um navegador moderno.
+3. Para publicar, envie a pasta/arquivo index.html para uma hospedagem estática, como Netlify.
+
+FUNCIONALIDADES
+- Layout responsivo para celular e computador
+- Menu de navegação adaptado a telas pequenas
+- Links de WhatsApp, Instagram e Facebook
+- Mapa incorporado do Google Maps
+- Formulário que prepara os detalhes da encomenda e abre o WhatsApp
+- Galeria, produtos, sobre, depoimentos e contato
+
+CONFIGURAÇÕES IMPORTANTES
+- WhatsApp da loja: 5511992035357 (incluído no site)
+- Instagram: @doceriaunica.sr (incluído no site)
+- Endereço: Rua Tenente Francisco Luís de Campos, 173, São Roque - SP
+- Horário: segunda a sábado, das 9h às 19h
+
+OBSERVAÇÕES
+- As imagens e fontes são carregadas de serviços externos, então é necessária conexão à internet para que apareçam.
+- As fotos são ilustrativas; substitua-as por fotos reais dos produtos antes de divulgar.
+- Os depoimentos são exemplos de layout, não avaliações verificadas; substitua-os por depoimentos reais autorizados.
+- O formulário não salva dados em banco de dados: ele abre uma mensagem preenchida no WhatsApp, que o cliente ainda precisa enviar.
